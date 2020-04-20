@@ -21,7 +21,6 @@ public class CSVSort extends StudentList {
 
     }
 }
-
 /**
  * 学籍番号、氏名、国語、英語、数学の点数、合計点を格納するStudentクラス
  */
